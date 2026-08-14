@@ -1,0 +1,4806 @@
+{
+	"SchemaVersion": 1,
+	"Packages":
+	{
+		"starter kit":
+		{
+			"PackageName": "starter kit",
+			"PackageCost": 0,
+			"PurchaseLimit": 2,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Maeguana",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP'",
+					"DinoLevel": 100,
+					"Gender": "Random",
+					"Nuetered": true,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Maelizard"
+				},
+				{
+					"IsItem": false,
+					"Name": "Pteranodon",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP'",
+					"DinoLevel": 100,
+					"Gender": "Random",
+					"Nuetered": true,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Ptera"
+				},
+				{
+					"IsItem": true,
+					"Name": "Ez Grapple Crossbow",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Primitive",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Metal Pick",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Metal Hatchet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Helmet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Chestpiece",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Leggings",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Boots",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Gauntlets",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Gasoline",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline_C",
+					"ItemQuantity": 5,
+					"ItemQuality": "Apprentice",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Chainsaw",
+					"ItemClass": "/Game/ScorchedEarth/WeaponChainsaw/PrimalItem_ChainSaw.PrimalItem_ChainSaw_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "FLASH Mining Drill",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"scuba kit":
+		{
+			"PackageName": "scuba kit",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "SCUBA Mask",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_ScubaHelmet_Goggles.PrimalItemArmor_ScubaHelmet_Goggles_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Journeyman",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "SCUBA Tank",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_ScubaShirt_SuitWithTank.PrimalItemArmor_ScubaShirt_SuitWithTank_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Journeyman",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "SCUBA Leggings",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_ScubaPants.PrimalItemArmor_ScubaPants_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Journeyman",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "SCUBA Flippers",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/SCUBA/PrimalItemArmor_ScubaBoots_Flippers.PrimalItemArmor_ScubaBoots_Flippers_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Journeyman",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"sniper kit":
+		{
+			"PackageName": "sniper kit",
+			"PackageCost": 10,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Advanced Sniper Bullet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_AdvancedSniperBullet.PrimalItemAmmo_AdvancedSniperBullet_C",
+					"ItemQuantity": 100,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Helmet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Chestpiece",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Leggings",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Boots",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Gauntlets",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "FLASH Fabricated Sniper Rifle",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "FLASH Shadow Steak Saute",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Medical Brew",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_HealSoup.PrimalItemConsumable_HealSoup_C",
+					"ItemQuantity": 20,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"daeodon kit":
+		{
+			"PackageName": "daeodon kit",
+			"PackageCost": 10,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Daeodon",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP'",
+					"DinoLevel": 50,
+					"Gender": "Random",
+					"Nuetered": true,
+					"Cryopod": false,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Daeodon"
+				}
+			]
+		},
+		"Arthro kit":
+		{
+			"PackageName": "Arthro kit",
+			"PackageCost": 20,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Arthropluera",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP'",
+					"DinoLevel": 100,
+					"Gender": "Random",
+					"Nuetered": true,
+					"Cryopod": false,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Arthro"
+				}
+			]
+		},
+		"farming kit":
+		{
+			"PackageName": "farming kit",
+			"PackageCost": 10,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Anglerfish",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'",
+					"DinoLevel": 100,
+					"Gender": "Random",
+					"Nuetered": true,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Angler"
+				},
+				{
+					"IsItem": false,
+					"Name": "Ankylosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP'",
+					"DinoLevel": 100,
+					"Gender": "Random",
+					"Nuetered": true,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Anky"
+				},
+				{
+					"IsItem": false,
+					"Name": "Argentavis",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'",
+					"DinoLevel": 100,
+					"Gender": "Random",
+					"Nuetered": true,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Argent"
+				},
+				{
+					"IsItem": false,
+					"Name": "Doedicurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP'",
+					"DinoLevel": 100,
+					"Gender": "Random",
+					"Nuetered": true,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Doed"
+				}
+			]
+		},
+		"shotgun kit":
+		{
+			"PackageName": "shotgun kit",
+			"PackageCost": 10,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Pump-Action Shotgun",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Simple Shotgun Ammo",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItemAmmo_SimpleShotgunBullet.PrimalItemAmmo_SimpleShotgunBullet_C",
+					"ItemQuantity": 50,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Helmet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Chestpiece",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Leggings",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Boots",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Gauntlets",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"starter base":
+		{
+			"PackageName": "starter base",
+			"PackageCost": 10,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Metal Wall, Doorways & Windowframe",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalWall.PrimalItemStructure_MetalWall_C",
+					"ItemQuantity": 18,
+					"ItemQuality": "Primitive",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Metal Foundation",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalFloor.PrimalItemStructure_MetalFloor_C",
+					"ItemQuantity": 9,
+					"ItemQuality": "Primitive",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Metal Ceiling & Hatchframe",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalCeiling.PrimalItemStructure_MetalCeiling_C",
+					"ItemQuantity": 9,
+					"ItemQuality": "Primitive",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Metal Door",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Metal/PrimalItemStructure_MetalDoor.PrimalItemStructure_MetalDoor_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Primitive",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Auto Turret",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Turret.PrimalItemStructure_Turret_C",
+					"ItemQuantity": 4,
+					"ItemQuality": "Primitive",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Power Generator",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Primitive",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Fabricator",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Fabricator.PrimalItemStructure_Fabricator_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Primitive",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Gasoline",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline_C",
+					"ItemQuantity": 100,
+					"ItemQuality": "Primitive",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"starter +":
+		{
+			"PackageName": "starter +",
+			"PackageCost": 20,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Griffin",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP'",
+					"DinoLevel": 150,
+					"Gender": "Random",
+					"Nuetered": true,
+					"Cryopod": true,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "Griffin"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Leggings",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Helmet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Gauntlets",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Boots",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Flak Chestpiece",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Metal Pick",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Metal Hatchet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "FLASH Mining Drill",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Ez Grapple Crossbow",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Chainsaw",
+					"ItemClass": "/Game/ScorchedEarth/WeaponChainsaw/PrimalItem_ChainSaw.PrimalItem_ChainSaw_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				},
+				{
+					"IsItem": true,
+					"Name": "Gasoline",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Gasoline.PrimalItemResource_Gasoline_C",
+					"ItemQuantity": 5,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"A":
+		{
+			"PackageName": "A",
+			"PackageCost": 10000,
+			"PurchaseLimit": 0,
+			"DinoTag": "Achatina",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Achatina",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP'",
+					"DinoLevel": 150,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "Achatina"
+				}
+			]
+		},
+		"Andrew":
+		{
+			"PackageName": "Andrew",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Andrewsarchus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/andrewsarchus/Andrewsarchus_Character_BP_Early.Andrewsarchus_Character_BP_Early",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Andrewsarchus"
+				}
+			]
+		},
+		"Allo":
+		{
+			"PackageName": "Allo",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Allosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Allo"
+				}
+			]
+		},
+		"Anglerfish":
+		{
+			"PackageName": "Anglerfish",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Anglerfish",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Angler"
+				}
+			]
+		},
+		"Anky":
+		{
+			"PackageName": "Anky",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Ankylosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Anky"
+				}
+			]
+		},
+		"Argy":
+		{
+			"PackageName": "Argy",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Argentavis",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Argent"
+				}
+			]
+		},
+		"Arthro":
+		{
+			"PackageName": "Arthro",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Arthropluera",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Arthro"
+				}
+			]
+		},
+		"bary":
+		{
+			"PackageName": "bary",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Baryonyx",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Baryonyx"
+				}
+			]
+		},
+		"basilisk":
+		{
+			"PackageName": "basilisk",
+			"PackageCost": 800,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Basilisk",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Basilisk"
+				}
+			]
+		},
+		"basilo":
+		{
+			"PackageName": "basilo",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Basilosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Basilosaurus"
+				}
+			]
+		},
+		"beelzebufo":
+		{
+			"PackageName": "beelzebufo",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Beelzebufo",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Toad"
+				}
+			]
+		},
+		"carbo":
+		{
+			"PackageName": "carbo",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Carbonemys",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Turtle"
+				}
+			]
+		},
+		"carcha":
+		{
+			"PackageName": "carcha",
+			"PackageCost": 1200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Carchar",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Carcha"
+				}
+			]
+		},
+		"carno":
+		{
+			"PackageName": "carno",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Carnotaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Carno"
+				}
+			]
+		},
+		"castoroides":
+		{
+			"PackageName": "castoroides",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Castoroides",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Beaver"
+				}
+			]
+		},
+		"cerato":
+		{
+			"PackageName": "cerato",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Ceratosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "CeratosaurusAA"
+				}
+			]
+		},
+		"cryolophosaurus":
+		{
+			"PackageName": "cryolophosaurus",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Cryolophosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/Cryolophosaurus/Cryolophosaurus_Character_BP.Cryolophosaurus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Cryolophosaurus"
+				}
+			]
+		},
+		"calico":
+		{
+			"PackageName": "calico",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Chalicotherium",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Chalico"
+				}
+			]
+		},
+		"daeodon":
+		{
+			"PackageName": "daeodon",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Daeodon",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Daeodon"
+				}
+			]
+		},
+		"deinonychus":
+		{
+			"PackageName": "deinonychus",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Deinonychus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Deinonychus"
+				}
+			]
+		},
+		"deinosuchus":
+		{
+			"PackageName": "deinosuchus",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Deinosuchus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "DeinosuchusAA"
+				}
+			]
+		},
+		"desert titan":
+		{
+			"PackageName": "desert titan",
+			"PackageCost": 1500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Desert Titan",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP'",
+					"DinoLevel": 1,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "DesertTitan"
+				}
+			]
+		},
+		"desmodus":
+		{
+			"PackageName": "desmodus",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Desmodus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Desmodus"
+				}
+			]
+		},
+		"diplo":
+		{
+			"PackageName": "diplo",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Diplodocus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Diplo"
+				}
+			]
+		},
+		"doed":
+		{
+			"PackageName": "doed",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Doed",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Doedicurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Doed"
+				}
+			]
+		},
+		"dung":
+		{
+			"PackageName": "dung",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Beetle",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Dung Beetle",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Beetle"
+				}
+			]
+		},
+		"dunkleo":
+		{
+			"PackageName": "dunkleo",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Dunkleosteus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Dunkle"
+				}
+			]
+		},
+		"equus":
+		{
+			"PackageName": "equus",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "Equus",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Equus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Equus"
+				}
+			]
+		},
+		"fasola":
+		{
+			"PackageName": "fasola",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "Fasola",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Fasolasuchus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Fasola"
+				}
+			]
+		},
+		"fire wyvern":
+		{
+			"PackageName": "fire wyvern",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Fire Wyvern",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire'",
+					"DinoLevel": 190,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Wyvern"
+				}
+			]
+		},
+		"forest titan":
+		{
+			"PackageName": "forest titan",
+			"PackageCost": 1500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Forest Titan",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP'",
+					"DinoLevel": 1,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "ForestTitan"
+				}
+			]
+		},
+		"gloon":
+		{
+			"PackageName": "gloon",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "LostChargePet",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Gloon",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/LostColony/Dinos/LostChargePet/LostCharge_LanternPet_Char_BP.LostCharge_LanternPet_Char_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "LostChargePet"
+				}
+			]
+		},
+		"gasbags":
+		{
+			"PackageName": "gasbags",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Gasbags",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "GasBags"
+				}
+			]
+		},
+		"giga":
+		{
+			"PackageName": "giga",
+			"PackageCost": 1200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Giganotosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Gigant"
+				}
+			]
+		},
+		"griffin":
+		{
+			"PackageName": "griffin",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Griffin",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Griffin"
+				}
+			]
+		},
+		"ice titan":
+		{
+			"PackageName": "ice titan",
+			"PackageCost": 1500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Ice Titan",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP'",
+					"DinoLevel": 1,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "IceTitan"
+				}
+			]
+		},
+		"ichthy":
+		{
+			"PackageName": "ichthy",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Dolphin",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Ichthyosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Dolphin"
+				}
+			]
+		},
+		"iguanodon":
+		{
+			"PackageName": "iguanodon",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Iguanodon",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Iguanodon",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Iguanodon"
+				}
+			]
+		},
+		"kapro":
+		{
+			"PackageName": "kapro",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Kaprosuchus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Kaprosuchus"
+				}
+			]
+		},
+		"karkinos":
+		{
+			"PackageName": "karkinos",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Karkinos",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "CaveCrab"
+				}
+			]
+		},
+		"lightning wyvern":
+		{
+			"PackageName": "lightning wyvern",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Lightning Wyvern",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning'",
+					"DinoLevel": 190,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Wyvern"
+				}
+			]
+		},
+		"mammoth":
+		{
+			"PackageName": "mammoth",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Mammoth",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Mammoth",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Mammoth"
+				}
+			]
+		},
+		"mana":
+		{
+			"PackageName": "mana",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Managarmr",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Managarmr"
+				}
+			]
+		},
+		"malwyn":
+		{
+			"PackageName": "malwyn",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "DevilFox",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Malwyn",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "DevilFox"
+				}
+			]
+		},
+		"mantis":
+		{
+			"PackageName": "mantis",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "Mantis",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Mantis",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Mantis"
+				}
+			]
+		},
+		"megalodon":
+		{
+			"PackageName": "megalodon",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Megalodon",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Mega"
+				}
+			]
+		},
+		"megalo":
+		{
+			"PackageName": "megalo",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "Megalosaurus",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Megalosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Megalosaurus"
+				}
+			]
+		},
+		"maegauna":
+		{
+			"PackageName": "maegauna",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "Maelizard",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Maeguana",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/Maelizard/Maelizard_Character_BP.Maelizard_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Maelizard"
+				}
+			]
+		},
+		"megatherium":
+		{
+			"PackageName": "megatherium",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "Megatherium",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Megatherium",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Megatherium"
+				}
+			]
+		},
+		"mosa":
+		{
+			"PackageName": "mosa",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "Mosasaur",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Mosasaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Mosasaur"
+				}
+			]
+		},
+		"moschops":
+		{
+			"PackageName": "moschops",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Moschops",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Moschops",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Moschops"
+				}
+			]
+		},
+		"ossidon":
+		{
+			"PackageName": "ossidon",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "SnowMonster",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Ossidon",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "SnowMonster"
+				}
+			]
+		},
+		"ovis":
+		{
+			"PackageName": "ovis",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Sheep",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Ovis",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Sheep"
+				}
+			]
+		},
+		"pachyrhino":
+		{
+			"PackageName": "pachyrhino",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Pachyrhinosaurus",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Pachyrhino",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Pachyrhinosaurus"
+				}
+			]
+		},
+		"parasaur":
+		{
+			"PackageName": "parasaur",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Parasaur",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Parasaur/Parasaur_Character_BP.Parasaur_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Para"
+				}
+			]
+		},
+		"paracer":
+		{
+			"PackageName": "paracer",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Paraceratherium",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Paracer"
+				}
+			]
+		},
+		"plesi":
+		{
+			"PackageName": "plesi",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Plesiosaur",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Plesiosaur"
+				}
+			]
+		},
+		"pyromane":
+		{
+			"PackageName": "pyromane",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Pyromane",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "FireLion"
+				}
+			]
+		},
+		"poison wyvern":
+		{
+			"PackageName": "poison wyvern",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Poison Wyvern",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison'",
+					"DinoLevel": 190,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Wyvern"
+				}
+			]
+		},
+		"procoptodon":
+		{
+			"PackageName": "procoptodon",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Kangaroo",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Procoptodon",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Kangaroo"
+				}
+			]
+		},
+		"ptera":
+		{
+			"PackageName": "ptera",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Ptera",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Pteranodon",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Ptera"
+				}
+			]
+		},
+		"purlovia":
+		{
+			"PackageName": "purlovia",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Purlovia",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Purlovia",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Purlovia"
+				}
+			]
+		},
+		"quetz":
+		{
+			"PackageName": "quetz",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "Quetz",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Quetzal",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Quetz"
+				}
+			]
+		},
+		"reaper":
+		{
+			"PackageName": "reaper",
+			"PackageCost": 800,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Reaper",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Xenomorph"
+				}
+			]
+		},
+		"rex":
+		{
+			"PackageName": "rex",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Rex",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Rex"
+				}
+			]
+		},
+		"rhino":
+		{
+			"PackageName": "rhino",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Rhino",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Rhino"
+				}
+			]
+		},
+		"rhynio":
+		{
+			"PackageName": "rhynio",
+			"PackageCost": 800,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Rhyniognatha",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Rhynio"
+				}
+			]
+		},
+		"rock drake":
+		{
+			"PackageName": "rock drake",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Rock Drake",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP'",
+					"DinoLevel": 190,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "RockDrake"
+				}
+			]
+		},
+		"rock golem":
+		{
+			"PackageName": "rock golem",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Rock Elemental",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "RockElemental"
+				}
+			]
+		},
+		"sabertooth":
+		{
+			"PackageName": "sabertooth",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Sabertooth",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "Saber"
+				}
+			]
+		},
+		"Sarco":
+		{
+			"PackageName": "Sarco",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "Sarco",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Sarcosuchus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Sarco"
+				}
+			]
+		},
+		"solwn":
+		{
+			"PackageName": "solwn",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "AngelFox",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Solwyn",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/LostColony/Dinos/AngelFox/AngelFox_Character_BP.AngelFox_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "AngelFox"
+				}
+			]
+		},
+		"snow owl":
+		{
+			"PackageName": "snow owl",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "Owl",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Snow Owl",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Owl"
+				}
+			]
+		},
+		"spino":
+		{
+			"PackageName": "spino",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "Spino",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Spinosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Spino"
+				}
+			]
+		},
+		"stego":
+		{
+			"PackageName": "stego",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "Stego",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Stegosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Stego"
+				}
+			]
+		},
+		"tapejara":
+		{
+			"PackageName": "tapejara",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "Tapejara",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Tapejara",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Tapejara"
+				}
+			]
+		},
+		"terror bird":
+		{
+			"PackageName": "terror bird",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "TerrorBird",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Terror Bird",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "TerrorBird"
+				}
+			]
+		},
+		"tek rex":
+		{
+			"PackageName": "tek rex",
+			"PackageCost": 700,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Tek Rex",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP'",
+					"DinoLevel": 268,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Rex"
+				}
+			]
+		},
+		"therizino":
+		{
+			"PackageName": "therizino",
+			"PackageCost": 800,
+			"PurchaseLimit": 0,
+			"DinoTag": "Therizinosaurus",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Therizinosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Therizinosaurus"
+				}
+			]
+		},
+		"grand tortugar":
+		{
+			"PackageName": "grand tortugar",
+			"PackageCost": 600,
+			"PurchaseLimit": 0,
+			"DinoTag": "Carrier Turtle",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Tortugar",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/GrandTortugar/GrandTortugar_Character_BP.GrandTortugar_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Carrier Turtle"
+				}
+			]
+		},
+		"thyla":
+		{
+			"PackageName": "thyla",
+			"PackageCost": 800,
+			"PurchaseLimit": 0,
+			"DinoTag": "Thylacoleo",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Thylacoleo",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Thylacoleo"
+				}
+			]
+		},
+		"tek stego":
+		{
+			"PackageName": "tek stego",
+			"PackageCost": 800,
+			"PurchaseLimit": 0,
+			"DinoTag": "Stego",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Tek Stego",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Stego"
+				}
+			]
+		},
+		"trike":
+		{
+			"PackageName": "trike",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "Trike",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Trike",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Trike/trike_Character_BP.Trike_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Trike"
+				}
+			]
+		},
+		"Tek Trike":
+		{
+			"PackageName": "Tek Trike",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "Trike",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Tek Trike",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP'",
+					"DinoLevel": 268,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Trike"
+				}
+			]
+		},
+		"tuso":
+		{
+			"PackageName": "tuso",
+			"PackageCost": 800,
+			"PurchaseLimit": 0,
+			"DinoTag": "Tusoteuthis",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Tusoteuthis",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Tusoteuthis"
+				}
+			]
+		},
+		"unicorn":
+		{
+			"PackageName": "unicorn",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "Equus",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Unicorn",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP_Unicorn.Equus_Character_BP_Unicorn'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Equus"
+				}
+			]
+		},
+		"velo":
+		{
+			"PackageName": "velo",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "Velonasaur",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Velonasaur",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Velonasaur"
+				}
+			]
+		},
+		"xiphactinus":
+		{
+			"PackageName": "xiphactinus",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "XiphactinusAA",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Xiphactinus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "XiphactinusAA"
+				}
+			]
+		},
+		"yuty":
+		{
+			"PackageName": "yuty",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "Yutyrannus",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Yutyrannus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "Yutyrannus"
+				}
+			]
+		},
+		"yi ling":
+		{
+			"PackageName": "yi ling",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "YiLing",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Yi Ling",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "YiLing"
+				}
+			]
+		},
+		"Acro":
+		{
+			"PackageName": "Acro",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "AcroAA",
+			"Dino": true,
+			"CartItemData": [
+				{
+					"IsItem": false,
+					"Name": "Acrocanthosaurus",
+					"ItemClass": "",
+					"ItemQuantity": 0,
+					"ItemQuality": "",
+					"Blueprint": false,
+					"DinoClass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP'",
+					"DinoLevel": 224,
+					"Gender": "Random",
+					"Nuetered": false,
+					"Cryopod": true,
+					"IncludeSaddle": true,
+					"DinoTagIcon": "AcroAA"
+				}
+			]
+		},
+		"Flak Helm bp":
+		{
+			"PackageName": "Flak Helm bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Flak Helmet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalHelmet.PrimalItemArmor_MetalHelmet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"Flak chest bp":
+		{
+			"PackageName": "Flak chest bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Flak Chestpiece",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalShirt.PrimalItemArmor_MetalShirt_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"Flak glove bp":
+		{
+			"PackageName": "Flak glove bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Flak Gauntlets",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalGloves.PrimalItemArmor_MetalGloves_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"Flak boot bp":
+		{
+			"PackageName": "Flak boot bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Flak Boots",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalBoots.PrimalItemArmor_MetalBoots_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"Flak pants bp":
+		{
+			"PackageName": "Flak pants bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Flak Leggings",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Metal/PrimalItemArmor_MetalPants.PrimalItemArmor_MetalPants_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"riot helm bp":
+		{
+			"PackageName": "riot helm bp",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Riot Helmet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotHelmet.PrimalItemArmor_RiotHelmet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"riot chest bp":
+		{
+			"PackageName": "riot chest bp",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Riot Chestpiece",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotShirt.PrimalItemArmor_RiotShirt_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"riot pants bp":
+		{
+			"PackageName": "riot pants bp",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Riot Leggings",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotPants.PrimalItemArmor_RiotPants_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"riot gloves bp":
+		{
+			"PackageName": "riot gloves bp",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Riot Gauntlets",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotGloves.PrimalItemArmor_RiotGloves_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"riot boots bp":
+		{
+			"PackageName": "riot boots bp",
+			"PackageCost": 200,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Riot Boots",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Riot/PrimalItemArmor_RiotBoots.PrimalItemArmor_RiotBoots_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"tek boots bp":
+		{
+			"PackageName": "tek boots bp",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Tek Boots",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekBoots.PrimalItemArmor_TekBoots_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"tek gloves bp":
+		{
+			"PackageName": "tek gloves bp",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Tek Gauntlets",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekGloves.PrimalItemArmor_TekGloves_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"tek helmet bp":
+		{
+			"PackageName": "tek helmet bp",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Tek Helmet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekHelmet.PrimalItemArmor_TekHelmet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"tek pants bp":
+		{
+			"PackageName": "tek pants bp",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Tek Leggings",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekPants.PrimalItemArmor_TekPants_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"tek chest bp":
+		{
+			"PackageName": "tek chest bp",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Tek Chestpiece",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/TEK/PrimalItemArmor_TekShirt.PrimalItemArmor_TekShirt_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"flash fabi bp":
+		{
+			"PackageName": "flash fabi bp",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "FLASH Fabricated Sniper Rifle",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"fabi bp":
+		{
+			"PackageName": "fabi bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Fabricated Sniper Rifle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedSniper.PrimalItem_WeaponMachinedSniper_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"fabi pistol bp":
+		{
+			"PackageName": "fabi pistol bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Fabricated Pistol",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedPistol.PrimalItem_WeaponMachinedPistol_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"comp bow bp":
+		{
+			"PackageName": "comp bow bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Compound Bow",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCompoundBow.PrimalItem_WeaponCompoundBow_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"pump shotgun bp":
+		{
+			"PackageName": "pump shotgun bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Pump-Action Shotgun",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMachinedShotgun.PrimalItem_WeaponMachinedShotgun_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"shotgun bp":
+		{
+			"PackageName": "shotgun bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Shotgun",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponShotgun.PrimalItem_WeaponShotgun_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"longneck bp":
+		{
+			"PackageName": "longneck bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Longneck Rifle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponOneShotRifle.PrimalItem_WeaponOneShotRifle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"crossbow bp":
+		{
+			"PackageName": "crossbow bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Crossbow",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrossbow.PrimalItem_WeaponCrossbow_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"riot shield bp":
+		{
+			"PackageName": "riot shield bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Riot Shield",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Shields/PrimalItemArmor_TransparentRiotShield.PrimalItemArmor_TransparentRiotShield_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"tek rifle bp":
+		{
+			"PackageName": "tek rifle bp",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Tek Rifle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_TekRifle.PrimalItem_TekRifle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"grenade launcher bp":
+		{
+			"PackageName": "grenade launcher bp",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "FLASH Tek Grenade Launcher",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"sword bp":
+		{
+			"PackageName": "sword bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Sword",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponSword.PrimalItem_WeaponSword_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"tek sword bp":
+		{
+			"PackageName": "tek sword bp",
+			"PackageCost": 400,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Tek Sword",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponTekSword.PrimalItem_WeaponTekSword_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"pick bp":
+		{
+			"PackageName": "pick bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Metal Pick",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalPick.PrimalItem_WeaponMetalPick_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"hatchet bp":
+		{
+			"PackageName": "hatchet bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Metal Hatchet",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponMetalHatchet.PrimalItem_WeaponMetalHatchet_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"mining drill bp":
+		{
+			"PackageName": "mining drill bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "FLASH Mining Drill",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"lootbox":
+		{
+			"PackageName": "lootbox",
+			"PackageCost": 800,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Red Mystery Crate",
+					"ItemClass": "",
+					"ItemQuantity": 1,
+					"ItemQuality": "Ramshackle",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"electronics":
+		{
+			"PackageName": "electronics",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Electronics",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Electronics.PrimalItemResource_Electronics_C",
+					"ItemQuantity": 150,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"polymer":
+		{
+			"PackageName": "polymer",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Polymer",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Polymer.PrimalItemResource_Polymer_C",
+					"ItemQuantity": 100,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"Metal":
+		{
+			"PackageName": "Metal",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Metal",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Metal.PrimalItemResource_Metal_C",
+					"ItemQuantity": 250,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"cementing paste":
+		{
+			"PackageName": "cementing paste",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Cementing Paste",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste_C",
+					"ItemQuantity": 150,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"crystal":
+		{
+			"PackageName": "crystal",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Crystal",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Crystal.PrimalItemResource_Crystal_C",
+					"ItemQuantity": 150,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"element":
+		{
+			"PackageName": "element",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Element",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element_C",
+					"ItemQuantity": 25,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"black pearls":
+		{
+			"PackageName": "black pearls",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Black Pearl",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl_C",
+					"ItemQuantity": 50,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"hide":
+		{
+			"PackageName": "hide",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Hide",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Hide.PrimalItemResource_Hide_C",
+					"ItemQuantity": 250,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"fiber":
+		{
+			"PackageName": "fiber",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Fiber",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Fibers.PrimalItemResource_Fibers_C",
+					"ItemQuantity": 2500,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"silica pearls":
+		{
+			"PackageName": "silica pearls",
+			"PackageCost": 5,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Silica Pearls",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon_C",
+					"ItemQuantity": 250,
+					"ItemQuality": "Mastercraft",
+					"Blueprint": false,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"acro saddle bp":
+		{
+			"PackageName": "acro saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Acro Saddle",
+					"ItemClass": "/Game/ASA/Dinos/Acrocanthosaurus/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"maeguana saddle bp":
+		{
+			"PackageName": "maeguana saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Maeguana Saddle",
+					"ItemClass": "/Game/ASA/Dinos/Maelizard/PrimalItemArmor_MaelizardSaddle.PrimalItemArmor_MaelizardSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"desmodus saddle bp":
+		{
+			"PackageName": "desmodus saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Desmodus Saddle",
+					"ItemClass": "/Game/Fjordur/Dinos/Desmodus/PrimalItemArmor_DesmodusSaddle.PrimalItemArmor_DesmodusSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"stego saddle bp":
+		{
+			"PackageName": "stego saddle bp",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Stego Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_StegoSaddle.PrimalItemArmor_StegoSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"theri saddle bp":
+		{
+			"PackageName": "theri saddle bp",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Therizinosaurus Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TherizinosaurusSaddle.PrimalItemArmor_TherizinosaurusSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"carbo saddle bp":
+		{
+			"PackageName": "carbo saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Carbonemys Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TurtleSaddle.PrimalItemArmor_TurtleSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"trike saddle bp":
+		{
+			"PackageName": "trike saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Trike Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"tuso saddle bp":
+		{
+			"PackageName": "tuso saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Tusoteuthis Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TusoSaddle.PrimalItemArmor_TusoSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"rhino saddle bp":
+		{
+			"PackageName": "rhino saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Woolly Rhino Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhinoSaddle.PrimalItemArmor_RhinoSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"rhynio saddle bp":
+		{
+			"PackageName": "rhynio saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Rhyniognatha Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhynioSaddle.PrimalItemArmor_RhynioSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"rex saddle bp":
+		{
+			"PackageName": "rex saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Rex Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"ptera saddle bp":
+		{
+			"PackageName": "ptera saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Pteranodon Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PteroSaddle.PrimalItemArmor_PteroSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"megalodon tek saddle bp":
+		{
+			"PackageName": "megalodon tek saddle bp",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Megalodon Tek Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegalodonSaddle_Tek.PrimalItemArmor_MegalodonSaddle_Tek_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"mosa tek saddle bp":
+		{
+			"PackageName": "mosa tek saddle bp",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Mosasaur Tek Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MosaSaddle_Tek.PrimalItemArmor_MosaSaddle_Tek_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"rex tek saddle bp":
+		{
+			"PackageName": "rex tek saddle bp",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Rex Tek Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"tape tek saddle bp":
+		{
+			"PackageName": "tape tek saddle bp",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Tapejara Tek Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_Tapejara_Tek.PrimalItemArmor_Tapejara_Tek_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"drake tek saddle bp":
+		{
+			"PackageName": "drake tek saddle bp",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Rock Drake Tek Saddle",
+					"ItemClass": "/Game/Aberration/Dinos/RockDrake/PrimalItemArmor_RockDrakeSaddle_Tek.PrimalItemArmor_RockDrakeSaddle_Tek_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"carcha saddle bp":
+		{
+			"PackageName": "carcha saddle bp",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Carcharo Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"giga saddle bp":
+		{
+			"PackageName": "giga saddle bp",
+			"PackageCost": 500,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Giganotosaurus Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		},
+		"thyla saddle bp":
+		{
+			"PackageName": "thyla saddle bp",
+			"PackageCost": 300,
+			"PurchaseLimit": 0,
+			"DinoTag": "None",
+			"Dino": false,
+			"CartItemData": [
+				{
+					"IsItem": true,
+					"Name": "Thylacoleo Saddle",
+					"ItemClass": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ThylacoSaddle.PrimalItemArmor_ThylacoSaddle_C",
+					"ItemQuantity": 1,
+					"ItemQuality": "Apprentice",
+					"Blueprint": true,
+					"DinoClass": "",
+					"DinoLevel": 0,
+					"Gender": "",
+					"Nuetered": false,
+					"Cryopod": false,
+					"IncludeSaddle": false,
+					"DinoTagIcon": "None"
+				}
+			]
+		}
+	}
+}
