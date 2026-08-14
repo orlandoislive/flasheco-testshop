@@ -1,9 +1,16 @@
 {
 	"SchemaVersion": 1,
-	"Packages":
-	{
-		"starter kit":
-		{
+	"Settings": {
+		"GrantPoints": false,
+		"PointsInterval": 600.0,
+		"PointsPerInterval": 0,
+		"ReceivedPointsMessage": false,
+		"EarnPointsPerKill": false,
+		"PointsOnKillAmount": 0.0,
+		"TradePointsEnabled": false
+	},
+	"Packages": {
+		"starter kit": {
 			"PackageName": "starter kit",
 			"PackageCost": 0,
 			"PurchaseLimit": 2,
@@ -207,8 +214,7 @@
 				}
 			]
 		},
-		"scuba kit":
-		{
+		"scuba kit": {
 			"PackageName": "scuba kit",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -277,8 +283,7 @@
 				}
 			]
 		},
-		"sniper kit":
-		{
+		"sniper kit": {
 			"PackageName": "sniper kit",
 			"PackageCost": 10,
 			"PurchaseLimit": 0,
@@ -422,8 +427,7 @@
 				}
 			]
 		},
-		"daeodon kit":
-		{
+		"daeodon kit": {
 			"PackageName": "daeodon kit",
 			"PackageCost": 10,
 			"PurchaseLimit": 0,
@@ -447,8 +451,7 @@
 				}
 			]
 		},
-		"Arthro kit":
-		{
+		"Arthro kit": {
 			"PackageName": "Arthro kit",
 			"PackageCost": 20,
 			"PurchaseLimit": 0,
@@ -472,8 +475,7 @@
 				}
 			]
 		},
-		"farming kit":
-		{
+		"farming kit": {
 			"PackageName": "farming kit",
 			"PackageCost": 10,
 			"PurchaseLimit": 0,
@@ -542,8 +544,7 @@
 				}
 			]
 		},
-		"shotgun kit":
-		{
+		"shotgun kit": {
 			"PackageName": "shotgun kit",
 			"PackageCost": 10,
 			"PurchaseLimit": 0,
@@ -657,8 +658,7 @@
 				}
 			]
 		},
-		"starter base":
-		{
+		"starter base": {
 			"PackageName": "starter base",
 			"PackageCost": 10,
 			"PurchaseLimit": 0,
@@ -787,8 +787,7 @@
 				}
 			]
 		},
-		"starter +":
-		{
+		"starter +": {
 			"PackageName": "starter +",
 			"PackageCost": 20,
 			"PurchaseLimit": 0,
@@ -977,8 +976,7 @@
 				}
 			]
 		},
-		"A":
-		{
+		"A": {
 			"PackageName": "A",
 			"PackageCost": 10000,
 			"PurchaseLimit": 0,
@@ -1002,8 +1000,7 @@
 				}
 			]
 		},
-		"Andrew":
-		{
+		"Andrew": {
 			"PackageName": "Andrew",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -1027,8 +1024,7 @@
 				}
 			]
 		},
-		"Allo":
-		{
+		"Allo": {
 			"PackageName": "Allo",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1052,8 +1048,7 @@
 				}
 			]
 		},
-		"Anglerfish":
-		{
+		"Anglerfish": {
 			"PackageName": "Anglerfish",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -1077,8 +1072,7 @@
 				}
 			]
 		},
-		"Anky":
-		{
+		"Anky": {
 			"PackageName": "Anky",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1102,8 +1096,7 @@
 				}
 			]
 		},
-		"Argy":
-		{
+		"Argy": {
 			"PackageName": "Argy",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1127,8 +1120,7 @@
 				}
 			]
 		},
-		"Arthro":
-		{
+		"Arthro": {
 			"PackageName": "Arthro",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -1152,8 +1144,7 @@
 				}
 			]
 		},
-		"bary":
-		{
+		"bary": {
 			"PackageName": "bary",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -1177,8 +1168,7 @@
 				}
 			]
 		},
-		"basilisk":
-		{
+		"basilisk": {
 			"PackageName": "basilisk",
 			"PackageCost": 800,
 			"PurchaseLimit": 0,
@@ -1202,8 +1192,7 @@
 				}
 			]
 		},
-		"basilo":
-		{
+		"basilo": {
 			"PackageName": "basilo",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -1227,8 +1216,7 @@
 				}
 			]
 		},
-		"beelzebufo":
-		{
+		"beelzebufo": {
 			"PackageName": "beelzebufo",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1252,8 +1240,7 @@
 				}
 			]
 		},
-		"carbo":
-		{
+		"carbo": {
 			"PackageName": "carbo",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -1277,8 +1264,7 @@
 				}
 			]
 		},
-		"carcha":
-		{
+		"carcha": {
 			"PackageName": "carcha",
 			"PackageCost": 1200,
 			"PurchaseLimit": 0,
@@ -1302,8 +1288,7 @@
 				}
 			]
 		},
-		"carno":
-		{
+		"carno": {
 			"PackageName": "carno",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1327,8 +1312,7 @@
 				}
 			]
 		},
-		"castoroides":
-		{
+		"castoroides": {
 			"PackageName": "castoroides",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1352,8 +1336,7 @@
 				}
 			]
 		},
-		"cerato":
-		{
+		"cerato": {
 			"PackageName": "cerato",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1377,8 +1360,7 @@
 				}
 			]
 		},
-		"cryolophosaurus":
-		{
+		"cryolophosaurus": {
 			"PackageName": "cryolophosaurus",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1402,8 +1384,7 @@
 				}
 			]
 		},
-		"calico":
-		{
+		"calico": {
 			"PackageName": "calico",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1427,8 +1408,7 @@
 				}
 			]
 		},
-		"daeodon":
-		{
+		"daeodon": {
 			"PackageName": "daeodon",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1452,8 +1432,7 @@
 				}
 			]
 		},
-		"deinonychus":
-		{
+		"deinonychus": {
 			"PackageName": "deinonychus",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -1477,8 +1456,7 @@
 				}
 			]
 		},
-		"deinosuchus":
-		{
+		"deinosuchus": {
 			"PackageName": "deinosuchus",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -1502,8 +1480,7 @@
 				}
 			]
 		},
-		"desert titan":
-		{
+		"desert titan": {
 			"PackageName": "desert titan",
 			"PackageCost": 1500,
 			"PurchaseLimit": 0,
@@ -1527,8 +1504,7 @@
 				}
 			]
 		},
-		"desmodus":
-		{
+		"desmodus": {
 			"PackageName": "desmodus",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -1552,8 +1528,7 @@
 				}
 			]
 		},
-		"diplo":
-		{
+		"diplo": {
 			"PackageName": "diplo",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1577,8 +1552,7 @@
 				}
 			]
 		},
-		"doed":
-		{
+		"doed": {
 			"PackageName": "doed",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1602,8 +1576,7 @@
 				}
 			]
 		},
-		"dung":
-		{
+		"dung": {
 			"PackageName": "dung",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1627,8 +1600,7 @@
 				}
 			]
 		},
-		"dunkleo":
-		{
+		"dunkleo": {
 			"PackageName": "dunkleo",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -1652,8 +1624,7 @@
 				}
 			]
 		},
-		"equus":
-		{
+		"equus": {
 			"PackageName": "equus",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -1677,8 +1648,7 @@
 				}
 			]
 		},
-		"fasola":
-		{
+		"fasola": {
 			"PackageName": "fasola",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -1702,8 +1672,7 @@
 				}
 			]
 		},
-		"fire wyvern":
-		{
+		"fire wyvern": {
 			"PackageName": "fire wyvern",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -1727,8 +1696,7 @@
 				}
 			]
 		},
-		"forest titan":
-		{
+		"forest titan": {
 			"PackageName": "forest titan",
 			"PackageCost": 1500,
 			"PurchaseLimit": 0,
@@ -1752,8 +1720,7 @@
 				}
 			]
 		},
-		"gloon":
-		{
+		"gloon": {
 			"PackageName": "gloon",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -1777,8 +1744,7 @@
 				}
 			]
 		},
-		"gasbags":
-		{
+		"gasbags": {
 			"PackageName": "gasbags",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -1802,8 +1768,7 @@
 				}
 			]
 		},
-		"giga":
-		{
+		"giga": {
 			"PackageName": "giga",
 			"PackageCost": 1200,
 			"PurchaseLimit": 0,
@@ -1827,8 +1792,7 @@
 				}
 			]
 		},
-		"griffin":
-		{
+		"griffin": {
 			"PackageName": "griffin",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -1852,8 +1816,7 @@
 				}
 			]
 		},
-		"ice titan":
-		{
+		"ice titan": {
 			"PackageName": "ice titan",
 			"PackageCost": 1500,
 			"PurchaseLimit": 0,
@@ -1877,8 +1840,7 @@
 				}
 			]
 		},
-		"ichthy":
-		{
+		"ichthy": {
 			"PackageName": "ichthy",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1902,8 +1864,7 @@
 				}
 			]
 		},
-		"iguanodon":
-		{
+		"iguanodon": {
 			"PackageName": "iguanodon",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -1927,8 +1888,7 @@
 				}
 			]
 		},
-		"kapro":
-		{
+		"kapro": {
 			"PackageName": "kapro",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -1952,8 +1912,7 @@
 				}
 			]
 		},
-		"karkinos":
-		{
+		"karkinos": {
 			"PackageName": "karkinos",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -1977,8 +1936,7 @@
 				}
 			]
 		},
-		"lightning wyvern":
-		{
+		"lightning wyvern": {
 			"PackageName": "lightning wyvern",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2002,8 +1960,7 @@
 				}
 			]
 		},
-		"mammoth":
-		{
+		"mammoth": {
 			"PackageName": "mammoth",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2027,8 +1984,7 @@
 				}
 			]
 		},
-		"mana":
-		{
+		"mana": {
 			"PackageName": "mana",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2052,8 +2008,7 @@
 				}
 			]
 		},
-		"malwyn":
-		{
+		"malwyn": {
 			"PackageName": "malwyn",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -2077,8 +2032,7 @@
 				}
 			]
 		},
-		"mantis":
-		{
+		"mantis": {
 			"PackageName": "mantis",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -2102,8 +2056,7 @@
 				}
 			]
 		},
-		"megalodon":
-		{
+		"megalodon": {
 			"PackageName": "megalodon",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -2127,8 +2080,7 @@
 				}
 			]
 		},
-		"megalo":
-		{
+		"megalo": {
 			"PackageName": "megalo",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -2152,8 +2104,7 @@
 				}
 			]
 		},
-		"maegauna":
-		{
+		"maegauna": {
 			"PackageName": "maegauna",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -2177,8 +2128,7 @@
 				}
 			]
 		},
-		"megatherium":
-		{
+		"megatherium": {
 			"PackageName": "megatherium",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -2202,8 +2152,7 @@
 				}
 			]
 		},
-		"mosa":
-		{
+		"mosa": {
 			"PackageName": "mosa",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2227,8 +2176,7 @@
 				}
 			]
 		},
-		"moschops":
-		{
+		"moschops": {
 			"PackageName": "moschops",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2252,8 +2200,7 @@
 				}
 			]
 		},
-		"ossidon":
-		{
+		"ossidon": {
 			"PackageName": "ossidon",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -2277,8 +2224,7 @@
 				}
 			]
 		},
-		"ovis":
-		{
+		"ovis": {
 			"PackageName": "ovis",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2302,8 +2248,7 @@
 				}
 			]
 		},
-		"pachyrhino":
-		{
+		"pachyrhino": {
 			"PackageName": "pachyrhino",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2327,8 +2272,7 @@
 				}
 			]
 		},
-		"parasaur":
-		{
+		"parasaur": {
 			"PackageName": "parasaur",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2352,8 +2296,7 @@
 				}
 			]
 		},
-		"paracer":
-		{
+		"paracer": {
 			"PackageName": "paracer",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -2377,8 +2320,7 @@
 				}
 			]
 		},
-		"plesi":
-		{
+		"plesi": {
 			"PackageName": "plesi",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -2402,8 +2344,7 @@
 				}
 			]
 		},
-		"pyromane":
-		{
+		"pyromane": {
 			"PackageName": "pyromane",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -2427,8 +2368,7 @@
 				}
 			]
 		},
-		"poison wyvern":
-		{
+		"poison wyvern": {
 			"PackageName": "poison wyvern",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2452,8 +2392,7 @@
 				}
 			]
 		},
-		"procoptodon":
-		{
+		"procoptodon": {
 			"PackageName": "procoptodon",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2477,8 +2416,7 @@
 				}
 			]
 		},
-		"ptera":
-		{
+		"ptera": {
 			"PackageName": "ptera",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2502,8 +2440,7 @@
 				}
 			]
 		},
-		"purlovia":
-		{
+		"purlovia": {
 			"PackageName": "purlovia",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2527,8 +2464,7 @@
 				}
 			]
 		},
-		"quetz":
-		{
+		"quetz": {
 			"PackageName": "quetz",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -2552,8 +2488,7 @@
 				}
 			]
 		},
-		"reaper":
-		{
+		"reaper": {
 			"PackageName": "reaper",
 			"PackageCost": 800,
 			"PurchaseLimit": 0,
@@ -2577,8 +2512,7 @@
 				}
 			]
 		},
-		"rex":
-		{
+		"rex": {
 			"PackageName": "rex",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2602,8 +2536,7 @@
 				}
 			]
 		},
-		"rhino":
-		{
+		"rhino": {
 			"PackageName": "rhino",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2627,8 +2560,7 @@
 				}
 			]
 		},
-		"rhynio":
-		{
+		"rhynio": {
 			"PackageName": "rhynio",
 			"PackageCost": 800,
 			"PurchaseLimit": 0,
@@ -2652,8 +2584,7 @@
 				}
 			]
 		},
-		"rock drake":
-		{
+		"rock drake": {
 			"PackageName": "rock drake",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2677,8 +2608,7 @@
 				}
 			]
 		},
-		"rock golem":
-		{
+		"rock golem": {
 			"PackageName": "rock golem",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2702,8 +2632,7 @@
 				}
 			]
 		},
-		"sabertooth":
-		{
+		"sabertooth": {
 			"PackageName": "sabertooth",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2727,8 +2656,7 @@
 				}
 			]
 		},
-		"Sarco":
-		{
+		"Sarco": {
 			"PackageName": "Sarco",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -2752,8 +2680,7 @@
 				}
 			]
 		},
-		"solwn":
-		{
+		"solwn": {
 			"PackageName": "solwn",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -2777,8 +2704,7 @@
 				}
 			]
 		},
-		"snow owl":
-		{
+		"snow owl": {
 			"PackageName": "snow owl",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -2802,8 +2728,7 @@
 				}
 			]
 		},
-		"spino":
-		{
+		"spino": {
 			"PackageName": "spino",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2827,8 +2752,7 @@
 				}
 			]
 		},
-		"stego":
-		{
+		"stego": {
 			"PackageName": "stego",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2852,8 +2776,7 @@
 				}
 			]
 		},
-		"tapejara":
-		{
+		"tapejara": {
 			"PackageName": "tapejara",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -2877,8 +2800,7 @@
 				}
 			]
 		},
-		"terror bird":
-		{
+		"terror bird": {
 			"PackageName": "terror bird",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -2902,8 +2824,7 @@
 				}
 			]
 		},
-		"tek rex":
-		{
+		"tek rex": {
 			"PackageName": "tek rex",
 			"PackageCost": 700,
 			"PurchaseLimit": 0,
@@ -2927,8 +2848,7 @@
 				}
 			]
 		},
-		"therizino":
-		{
+		"therizino": {
 			"PackageName": "therizino",
 			"PackageCost": 800,
 			"PurchaseLimit": 0,
@@ -2952,8 +2872,7 @@
 				}
 			]
 		},
-		"grand tortugar":
-		{
+		"grand tortugar": {
 			"PackageName": "grand tortugar",
 			"PackageCost": 600,
 			"PurchaseLimit": 0,
@@ -2977,8 +2896,7 @@
 				}
 			]
 		},
-		"thyla":
-		{
+		"thyla": {
 			"PackageName": "thyla",
 			"PackageCost": 800,
 			"PurchaseLimit": 0,
@@ -3002,8 +2920,7 @@
 				}
 			]
 		},
-		"tek stego":
-		{
+		"tek stego": {
 			"PackageName": "tek stego",
 			"PackageCost": 800,
 			"PurchaseLimit": 0,
@@ -3027,8 +2944,7 @@
 				}
 			]
 		},
-		"trike":
-		{
+		"trike": {
 			"PackageName": "trike",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3052,8 +2968,7 @@
 				}
 			]
 		},
-		"Tek Trike":
-		{
+		"Tek Trike": {
 			"PackageName": "Tek Trike",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3077,8 +2992,7 @@
 				}
 			]
 		},
-		"tuso":
-		{
+		"tuso": {
 			"PackageName": "tuso",
 			"PackageCost": 800,
 			"PurchaseLimit": 0,
@@ -3102,8 +3016,7 @@
 				}
 			]
 		},
-		"unicorn":
-		{
+		"unicorn": {
 			"PackageName": "unicorn",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3127,8 +3040,7 @@
 				}
 			]
 		},
-		"velo":
-		{
+		"velo": {
 			"PackageName": "velo",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -3152,8 +3064,7 @@
 				}
 			]
 		},
-		"xiphactinus":
-		{
+		"xiphactinus": {
 			"PackageName": "xiphactinus",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3177,8 +3088,7 @@
 				}
 			]
 		},
-		"yuty":
-		{
+		"yuty": {
 			"PackageName": "yuty",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -3202,8 +3112,7 @@
 				}
 			]
 		},
-		"yi ling":
-		{
+		"yi ling": {
 			"PackageName": "yi ling",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -3227,8 +3136,7 @@
 				}
 			]
 		},
-		"Acro":
-		{
+		"Acro": {
 			"PackageName": "Acro",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -3252,8 +3160,7 @@
 				}
 			]
 		},
-		"Flak Helm bp":
-		{
+		"Flak Helm bp": {
 			"PackageName": "Flak Helm bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3277,8 +3184,7 @@
 				}
 			]
 		},
-		"Flak chest bp":
-		{
+		"Flak chest bp": {
 			"PackageName": "Flak chest bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3302,8 +3208,7 @@
 				}
 			]
 		},
-		"Flak glove bp":
-		{
+		"Flak glove bp": {
 			"PackageName": "Flak glove bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3327,8 +3232,7 @@
 				}
 			]
 		},
-		"Flak boot bp":
-		{
+		"Flak boot bp": {
 			"PackageName": "Flak boot bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3352,8 +3256,7 @@
 				}
 			]
 		},
-		"Flak pants bp":
-		{
+		"Flak pants bp": {
 			"PackageName": "Flak pants bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3377,8 +3280,7 @@
 				}
 			]
 		},
-		"riot helm bp":
-		{
+		"riot helm bp": {
 			"PackageName": "riot helm bp",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -3402,8 +3304,7 @@
 				}
 			]
 		},
-		"riot chest bp":
-		{
+		"riot chest bp": {
 			"PackageName": "riot chest bp",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -3427,8 +3328,7 @@
 				}
 			]
 		},
-		"riot pants bp":
-		{
+		"riot pants bp": {
 			"PackageName": "riot pants bp",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -3452,8 +3352,7 @@
 				}
 			]
 		},
-		"riot gloves bp":
-		{
+		"riot gloves bp": {
 			"PackageName": "riot gloves bp",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -3477,8 +3376,7 @@
 				}
 			]
 		},
-		"riot boots bp":
-		{
+		"riot boots bp": {
 			"PackageName": "riot boots bp",
 			"PackageCost": 200,
 			"PurchaseLimit": 0,
@@ -3502,8 +3400,7 @@
 				}
 			]
 		},
-		"tek boots bp":
-		{
+		"tek boots bp": {
 			"PackageName": "tek boots bp",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3527,8 +3424,7 @@
 				}
 			]
 		},
-		"tek gloves bp":
-		{
+		"tek gloves bp": {
 			"PackageName": "tek gloves bp",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3552,8 +3448,7 @@
 				}
 			]
 		},
-		"tek helmet bp":
-		{
+		"tek helmet bp": {
 			"PackageName": "tek helmet bp",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3577,8 +3472,7 @@
 				}
 			]
 		},
-		"tek pants bp":
-		{
+		"tek pants bp": {
 			"PackageName": "tek pants bp",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3602,8 +3496,7 @@
 				}
 			]
 		},
-		"tek chest bp":
-		{
+		"tek chest bp": {
 			"PackageName": "tek chest bp",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3627,8 +3520,7 @@
 				}
 			]
 		},
-		"flash fabi bp":
-		{
+		"flash fabi bp": {
 			"PackageName": "flash fabi bp",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3652,8 +3544,7 @@
 				}
 			]
 		},
-		"fabi bp":
-		{
+		"fabi bp": {
 			"PackageName": "fabi bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3677,8 +3568,7 @@
 				}
 			]
 		},
-		"fabi pistol bp":
-		{
+		"fabi pistol bp": {
 			"PackageName": "fabi pistol bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3702,8 +3592,7 @@
 				}
 			]
 		},
-		"comp bow bp":
-		{
+		"comp bow bp": {
 			"PackageName": "comp bow bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3727,8 +3616,7 @@
 				}
 			]
 		},
-		"pump shotgun bp":
-		{
+		"pump shotgun bp": {
 			"PackageName": "pump shotgun bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3752,8 +3640,7 @@
 				}
 			]
 		},
-		"shotgun bp":
-		{
+		"shotgun bp": {
 			"PackageName": "shotgun bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3777,8 +3664,7 @@
 				}
 			]
 		},
-		"longneck bp":
-		{
+		"longneck bp": {
 			"PackageName": "longneck bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3802,8 +3688,7 @@
 				}
 			]
 		},
-		"crossbow bp":
-		{
+		"crossbow bp": {
 			"PackageName": "crossbow bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3827,8 +3712,7 @@
 				}
 			]
 		},
-		"riot shield bp":
-		{
+		"riot shield bp": {
 			"PackageName": "riot shield bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3852,8 +3736,7 @@
 				}
 			]
 		},
-		"tek rifle bp":
-		{
+		"tek rifle bp": {
 			"PackageName": "tek rifle bp",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3877,8 +3760,7 @@
 				}
 			]
 		},
-		"grenade launcher bp":
-		{
+		"grenade launcher bp": {
 			"PackageName": "grenade launcher bp",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3902,8 +3784,7 @@
 				}
 			]
 		},
-		"sword bp":
-		{
+		"sword bp": {
 			"PackageName": "sword bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3927,8 +3808,7 @@
 				}
 			]
 		},
-		"tek sword bp":
-		{
+		"tek sword bp": {
 			"PackageName": "tek sword bp",
 			"PackageCost": 400,
 			"PurchaseLimit": 0,
@@ -3952,8 +3832,7 @@
 				}
 			]
 		},
-		"pick bp":
-		{
+		"pick bp": {
 			"PackageName": "pick bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -3977,8 +3856,7 @@
 				}
 			]
 		},
-		"hatchet bp":
-		{
+		"hatchet bp": {
 			"PackageName": "hatchet bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4002,8 +3880,7 @@
 				}
 			]
 		},
-		"mining drill bp":
-		{
+		"mining drill bp": {
 			"PackageName": "mining drill bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4027,8 +3904,7 @@
 				}
 			]
 		},
-		"lootbox":
-		{
+		"lootbox": {
 			"PackageName": "lootbox",
 			"PackageCost": 800,
 			"PurchaseLimit": 0,
@@ -4052,8 +3928,7 @@
 				}
 			]
 		},
-		"electronics":
-		{
+		"electronics": {
 			"PackageName": "electronics",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4077,8 +3952,7 @@
 				}
 			]
 		},
-		"polymer":
-		{
+		"polymer": {
 			"PackageName": "polymer",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4102,8 +3976,7 @@
 				}
 			]
 		},
-		"Metal":
-		{
+		"Metal": {
 			"PackageName": "Metal",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4127,8 +4000,7 @@
 				}
 			]
 		},
-		"cementing paste":
-		{
+		"cementing paste": {
 			"PackageName": "cementing paste",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4152,8 +4024,7 @@
 				}
 			]
 		},
-		"crystal":
-		{
+		"crystal": {
 			"PackageName": "crystal",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4177,8 +4048,7 @@
 				}
 			]
 		},
-		"element":
-		{
+		"element": {
 			"PackageName": "element",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4202,8 +4072,7 @@
 				}
 			]
 		},
-		"black pearls":
-		{
+		"black pearls": {
 			"PackageName": "black pearls",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4227,8 +4096,7 @@
 				}
 			]
 		},
-		"hide":
-		{
+		"hide": {
 			"PackageName": "hide",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4252,8 +4120,7 @@
 				}
 			]
 		},
-		"fiber":
-		{
+		"fiber": {
 			"PackageName": "fiber",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4277,8 +4144,7 @@
 				}
 			]
 		},
-		"silica pearls":
-		{
+		"silica pearls": {
 			"PackageName": "silica pearls",
 			"PackageCost": 5,
 			"PurchaseLimit": 0,
@@ -4302,8 +4168,7 @@
 				}
 			]
 		},
-		"acro saddle bp":
-		{
+		"acro saddle bp": {
 			"PackageName": "acro saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4327,8 +4192,7 @@
 				}
 			]
 		},
-		"maeguana saddle bp":
-		{
+		"maeguana saddle bp": {
 			"PackageName": "maeguana saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4352,8 +4216,7 @@
 				}
 			]
 		},
-		"desmodus saddle bp":
-		{
+		"desmodus saddle bp": {
 			"PackageName": "desmodus saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4377,8 +4240,7 @@
 				}
 			]
 		},
-		"stego saddle bp":
-		{
+		"stego saddle bp": {
 			"PackageName": "stego saddle bp",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -4402,8 +4264,7 @@
 				}
 			]
 		},
-		"theri saddle bp":
-		{
+		"theri saddle bp": {
 			"PackageName": "theri saddle bp",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -4427,8 +4288,7 @@
 				}
 			]
 		},
-		"carbo saddle bp":
-		{
+		"carbo saddle bp": {
 			"PackageName": "carbo saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4452,8 +4312,7 @@
 				}
 			]
 		},
-		"trike saddle bp":
-		{
+		"trike saddle bp": {
 			"PackageName": "trike saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4477,8 +4336,7 @@
 				}
 			]
 		},
-		"tuso saddle bp":
-		{
+		"tuso saddle bp": {
 			"PackageName": "tuso saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4502,8 +4360,7 @@
 				}
 			]
 		},
-		"rhino saddle bp":
-		{
+		"rhino saddle bp": {
 			"PackageName": "rhino saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4527,8 +4384,7 @@
 				}
 			]
 		},
-		"rhynio saddle bp":
-		{
+		"rhynio saddle bp": {
 			"PackageName": "rhynio saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4552,8 +4408,7 @@
 				}
 			]
 		},
-		"rex saddle bp":
-		{
+		"rex saddle bp": {
 			"PackageName": "rex saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4577,8 +4432,7 @@
 				}
 			]
 		},
-		"ptera saddle bp":
-		{
+		"ptera saddle bp": {
 			"PackageName": "ptera saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
@@ -4602,8 +4456,7 @@
 				}
 			]
 		},
-		"megalodon tek saddle bp":
-		{
+		"megalodon tek saddle bp": {
 			"PackageName": "megalodon tek saddle bp",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -4627,8 +4480,7 @@
 				}
 			]
 		},
-		"mosa tek saddle bp":
-		{
+		"mosa tek saddle bp": {
 			"PackageName": "mosa tek saddle bp",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -4652,8 +4504,7 @@
 				}
 			]
 		},
-		"rex tek saddle bp":
-		{
+		"rex tek saddle bp": {
 			"PackageName": "rex tek saddle bp",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -4677,8 +4528,7 @@
 				}
 			]
 		},
-		"tape tek saddle bp":
-		{
+		"tape tek saddle bp": {
 			"PackageName": "tape tek saddle bp",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -4702,8 +4552,7 @@
 				}
 			]
 		},
-		"drake tek saddle bp":
-		{
+		"drake tek saddle bp": {
 			"PackageName": "drake tek saddle bp",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -4727,8 +4576,7 @@
 				}
 			]
 		},
-		"carcha saddle bp":
-		{
+		"carcha saddle bp": {
 			"PackageName": "carcha saddle bp",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -4752,8 +4600,7 @@
 				}
 			]
 		},
-		"giga saddle bp":
-		{
+		"giga saddle bp": {
 			"PackageName": "giga saddle bp",
 			"PackageCost": 500,
 			"PurchaseLimit": 0,
@@ -4777,8 +4624,7 @@
 				}
 			]
 		},
-		"thyla saddle bp":
-		{
+		"thyla saddle bp": {
 			"PackageName": "thyla saddle bp",
 			"PackageCost": 300,
 			"PurchaseLimit": 0,
